@@ -1,0 +1,86 @@
+FinSnap AI — Privacy Policy (English)
+
+Effective date: October 7, 2025
+
+Thank you for choosing FinSnap AI. This Privacy Policy explains how FinSnap AI (“we”, “our”, or “the App”) collects, uses, stores, and protects information when you use our mobile application for tracking income and expenses powered by AI. 
+FinSnap AI is designed to keep your financial transaction data on your device; please read this policy carefully.
+
+Short summary
+Primary principle: Transaction data is stored locally on your device — we do not collect or store your transaction data on our servers by default.
+AI processing: All transaction analysis and categorization are performed on-device.
+Your control: You control your data: you can view, edit, export, or delete it from within the app.
+No third-party sharing: We do not sell or share your personal transaction data to third parties, except as described below (e.g., if you explicitly enable a feature that shares data).
+
+1. Information we collect
+1.1 Information you provide directly
+Transaction entries (amounts, dates, descriptions, categories, merchant names).
+Optional profile information you add (display name, email if you choose to register).
+Feedback and support messages.
+
+1.2 Information automatically created or collected
+App usage diagnostics and crash reports if you opt in to send them. These diagnostics may include device model, OS version, app version, and anonymized usage statistics. Diagnostics do not include your transaction details.
+
+2. Where your data is stored and how it is processed
+Local storage (default)
+All transaction data you enter into FinSnap AI is stored locally on your device’s storage (encrypted, see Security).
+AI categorization and other intelligent features run locally on the device; no transaction details are uploaded to our servers for AI processing by default.
+Optional features that may transmit data
+If you enable optional features such as cloud backup, cross-device sync, or share/export to third-party services, data will be transmitted to the selected provider. Those actions require your explicit consent and clear confirmation in the app.
+This policy only applies to data handling when you enable those features; see the relevant in-app disclosures at the time you enable them.
+
+3. How we use information
+We use information to:
+Provide and improve FinSnap AI’s core functionality (recording, categorizing, searching your transactions).
+Perform on-device AI processing to categorize and summarize transactions.
+Respond to your support requests and bug reports (with your consent for diagnostics).
+Provide optional features you choose to enable (e.g., export, backup, sync).
+We do not use your transaction data for advertising, profiling for marketing, or selling to third parties.
+
+4. How we protect your data
+Encryption: Transaction data stored by the app is encrypted at rest on the device.
+Access controls: The app respects device-level security (device PIN/biometrics). We recommend enabling device security features.
+Secure transmission: If you enable optional cloud features, transmissions use industry-standard encryption (HTTPS/TLS).
+Minimization: We store only the data necessary to provide the app’s features.
+While we implement reasonable technical and organizational measures, no method of storage or transmission over the internet is completely secure. You are responsible for maintaining your device’s security.
+
+5. Sharing and disclosure
+We will not share your transaction data with third parties except:
+With your consent: e.g., when you export or share data, or enable a cloud backup/sync provider.
+Legal requirements: if required by applicable law or valid legal process.
+Protection of rights: to protect the rights, property or safety of the App, users, or the public.
+Diagnostics and crash reports (if you opt in) may be shared with our crash analytics provider in anonymized form; these do not contain your transaction contents.
+
+6. Data retention and deletion
+By default, your transaction data is retained on your device for as long as you keep it in the app.
+You may delete individual transactions or clear all data within the app.
+Uninstalling the app will typically remove local app data; consult your device settings and backup settings prior to uninstalling if you want to preserve or delete data.
+If you enabled cloud backup or sync, you must also delete data from the associated cloud provider according to that provider’s procedures.
+
+7. Your rights and choices
+Depending on your jurisdiction, you may have rights including:
+Access: request a copy of personal data you provided.
+Correction: request correction of inaccurate or incomplete data.
+Deletion: request deletion of your personal data.
+Portability: request an export of your data in a common machine-readable format.
+Opt-out: opt out of analytics or diagnostic data sharing.
+To exercise these rights, use the in-app settings (Account → Privacy) or contact us at the email address below. We may ask to verify your identity before fulfilling certain requests.
+
+8. Children’s privacy
+FinSnap AI is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided personal information, contact us to request deletion.
+
+9. International users
+Because data is stored locally by default, we do not transfer transaction data internationally. If you enable cloud backup/sync, data may be stored or processed in the locations used by the chosen provider; please review that 
+provider’s privacy policy for details.
+
+10. Changes to this Privacy Policy
+We may update this Privacy Policy to reflect changes to the App or legal requirements. When we make material changes, we will update the Effective Date above and notify you in the app or by other means if required. Continued use of 
+the App after the Effective Date constitutes acceptance of the updated policy.
+
+11. Contact us
+If you have questions, requests, or concerns regarding this policy or your data, please contact us:
+Email: mkd.io.dev@gmail.com
+
+
+12. Legal disclaimer
+This Privacy Policy is provided for general informational purposes and does not constitute legal advice. Depending on where your users live (for example, the European Union, United Kingdom, California, Brazil, etc.), 
+additional legal requirements (GDPR, CCPA/CPRA, LGPD, etc.) may apply. We recommend consulting a qualified attorney to ensure compliance with applicable laws before publishing this policy.
