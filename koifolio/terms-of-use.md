@@ -1,8 +1,9 @@
 # KoiFolio Terms of Use & Subscription
 
+
 Developer: **MKDIO Labs**  
 Support and privacy contact: **[mkd.io.dev@gmail.com](mailto:mkd.io.dev@gmail.com)**  
-Effective date / Last updated: **25 October 2026**
+Effective date / Last updated: **7 November 2026**
 
 [English](#english) · [Bahasa Indonesia](#bahasa-indonesia)
 
@@ -10,7 +11,7 @@ Effective date / Last updated: **25 October 2026**
 
 ## Terms of Use & Subscription
 
-Effective and last updated: 25 October 2026
+Effective and last updated: 7 November 2026
 
 ### 1. Developer and use
 
@@ -18,19 +19,19 @@ KoiFolio is developed by MKDIO Labs. Contact [mkd.io.dev@gmail.com](mailto:mkd.i
 
 ### 2. Free and Premium
 
-Free has no subscription charge and allows 10 active koi, 1 active pond, 3 photos per koi, and 3 active reminders. Growth/water recording, basic 30-day charts, favorites, offline storage, and CSV export are included.
+Free has no subscription charge and allows 5 active koi, 1 active pond, 3 photos per koi, and 3 active reminders. Growth/water recording, the complete measurement record list, basic 7-day and 30-day growth/water charts, favorites, offline storage, a basic identity passport image/PDF, and CSV export are included.
 
 Premium offers koi and ponds without application quotas, up to 30 photos per koi, the app’s available advanced analytics, reminders without application quotas, ZIP export through the native share sheet including Google Drive where available, digital passport/PDF creation and export, and maintenance recording. There is no automatic multi-device sync. Device storage, permissions, and operating-system scheduling limits still apply.
 
 ### 3. Plans, prices, and payment
 
-Both plans have identical features. The intended Indonesian reference prices are Rp67,000 per six months and Rp109,000 per year. The store displays the actual price and terms before purchase confirmation; prices may differ by region, currency, taxes, or store price changes.
+All three plans have identical Premium features. The Indonesian reference prices are Rp29,000 monthly, Rp129,000 per six months, and Rp199,000 per year. The store displays the actual price and terms before purchase confirmation; prices may differ by region, currency, taxes, or store price changes.
 
 Google or Apple charges your store account. Premium requires a verified purchase. Pending, cancelled, or unverified payments do not automatically unlock access. These terms do not promise a free trial.
 
 ### 4. Automatic renewal and cancellation
 
-Subscriptions renew automatically every six months or year according to the selected plan unless cancelled in store subscription settings before the store’s renewal deadline. Next-period pricing follows store disclosures and notices. Uninstalling the app does not cancel a subscription.
+Subscriptions renew automatically every month, six months, or year according to the selected plan unless cancelled in store subscription settings before the store’s renewal deadline. Next-period pricing follows store disclosures and notices. Uninstalling the app does not cancel a subscription.
 
 Cancellation normally stops the next renewal; paid access remains until the paid period ends according to verified store status. Manage it from KoiFolio’s Subscription page or Google Play/Apple subscription settings. Refunds and billing disputes follow store procedures and applicable statutory rights.
 
@@ -64,24 +65,25 @@ KoiFolio dikembangkan oleh MKDIO Labs. Kontak: [mkd.io.dev@gmail.com](mailto:mkd
 
 ### 2. Free dan Premium
 
-Free tersedia tanpa biaya langganan: maksimal 10 koi aktif, 1 kolam aktif, 3 foto per koi, dan 3 pengingat aktif. Pencatatan pertumbuhan/kualitas air, grafik dasar 30 hari, favorit, penyimpanan offline, dan ekspor CSV tersedia. Batas native sistem operasi tetap berlaku untuk pengingat.
+Free tersedia tanpa biaya langganan: maksimal 5 koi aktif, 1 kolam aktif, 3 foto per koi, dan 3 pengingat aktif. Pencatatan pertumbuhan/kualitas air, daftar lengkap pengukuran, grafik dasar pertumbuhan/kualitas air periode 7 dan 30 hari, favorit, penyimpanan offline, paspor identitas dasar berupa gambar/PDF, dan ekspor CSV tersedia. Batas native sistem operasi tetap berlaku untuk pengingat.
 
 Premium menyediakan koi dan kolam tanpa kuota aplikasi, maksimal 30 foto per koi, analisis lanjutan yang tersedia di aplikasi, pengingat tanpa kuota aplikasi, ekspor ZIP melalui menu berbagi termasuk Google Drive jika tersedia, pembuatan/ekspor paspor digital dan PDF, serta pencatatan perawatan. Tidak ada sinkronisasi otomatis antarperangkat. Perangkat, penyimpanan, izin, dan batas sistem operasi tetap dapat membatasi layanan.
 
 ### 3. Paket, harga, dan pembayaran
 
-| Plan | Period | Indonesian reference price |
-| --- | --- | --- |
-| Premium 6 Months | 6 months | Rp67,000 |
-| Premium 1 Year | 1 year | Rp109,000 |
+| Plan             | Period   | Indonesian reference price |
+| ---------------- | -------- | -------------------------- |
+| Premium Monthly  | 1 month  | Rp29,000                   |
+| Premium 6 Months | 6 months | Rp129,000                  |
+| Premium Annual   | 1 year   | Rp199,000                  |
 
-Kedua paket memiliki fitur yang sama. Harga dan ketentuan aktual ditampilkan oleh store sebelum konfirmasi pembelian; harga dapat berbeda menurut wilayah, mata uang, pajak, atau perubahan harga store.
+Ketiga paket memiliki fitur Premium yang sama. Harga dan ketentuan aktual ditampilkan oleh store sebelum konfirmasi pembelian; harga dapat berbeda menurut wilayah, mata uang, pajak, atau perubahan harga store.
 
 Pembayaran ditagih oleh Google atau Apple melalui akun store Anda. Akses Premium diberikan setelah pembelian diverifikasi. Pembayaran tertunda, dibatalkan, atau tidak terverifikasi tidak otomatis membuka Premium. Tidak ada uji coba gratis yang dijanjikan oleh ketentuan ini.
 
 ### 4. Perpanjangan otomatis dan pembatalan
 
-Langganan diperpanjang otomatis setiap 6 bulan atau 1 tahun sesuai paket, kecuali dibatalkan melalui pengaturan langganan store sebelum waktu perpanjangan yang ditentukan store. Harga periode berikutnya mengikuti informasi dan pemberitahuan store. Menghapus aplikasi tidak membatalkan langganan.
+Langganan diperpanjang otomatis setiap 1 bulan, 6 bulan, atau 1 tahun sesuai paket, kecuali dibatalkan melalui pengaturan langganan store sebelum waktu perpanjangan yang ditentukan store. Harga periode berikutnya mengikuti informasi dan pemberitahuan store. Menghapus aplikasi tidak membatalkan langganan.
 
 Pembatalan biasanya menghentikan perpanjangan berikutnya; akses berbayar tetap tersedia sampai periode yang telah dibayar berakhir, sesuai status yang diverifikasi store. Kelola langganan melalui halaman Langganan KoiFolio atau langsung di pengaturan Google Play/Apple. Refund dan sengketa pembayaran mengikuti mekanisme store dan hak hukum yang berlaku.
 
